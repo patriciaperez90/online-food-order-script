@@ -45,7 +45,7 @@
     "@react-navigation/native": "^6.0.8",
     "@react-navigation/native-stack": "^6.5.0",
 
-    "@sentry/react-native": "~5.22.0",
+    "@sentry/react-native": "~6.20.0",
 
     "@use-expo/font": "^2.0.0",
 
