@@ -37,7 +37,7 @@
 
 
     "@amplitude/analytics-react-native": "^1.4.7",
-    "@apollo/client": "^3.13.4",
+    "@apollo/client": "^4.0.11",
 
 
     "@babel/plugin-transform-object-rest-spread": "^7.23.4",
